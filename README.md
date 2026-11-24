@@ -1,4 +1,4 @@
-# Axioms
+# Axiom
 
 Software developer focused on building reliable, maintainable, and performance-conscious software across systems, backend, frontend, tooling, and automation.
 
